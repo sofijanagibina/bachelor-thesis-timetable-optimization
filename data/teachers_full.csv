@@ -1,0 +1,79 @@
+teacher_id,first_name,last_name,subjects
+T001,Sandra,Akmentiņa,Latviešu valoda; Latviešu valoda un literatūra
+T002,Sergejs,Āboliņš,Matemātika
+T003,Irina,Baikova,Matemātika
+T004,Svetlana,Balahoviča,Latviešu valoda; Sociālās zinības
+T005,Mihails,Basmanovs,Bioloģija
+T006,Ludmila,Belogrudova,Fizika
+T007,Jevgēnija,Beznosika,Angļu valoda
+T008,Dainis,Bērziņš,Teātra māksla
+T010,Žanna,Bormane,Vācu valoda
+T012,Anastasia,Borovkova,Matemātika
+T014,Alla,Butenko,Matemātika
+T016,Ludmila,Čakova,Datorika; Dizains un tehnoloģijas
+T018,Ļubova,Čuviļova,Angļu valoda
+T019,Sintija,Ditļa,Datorika; Inženierzinības
+T020,Nadežda,Djomina,Matemātika
+T023,Kirils,Fiļipovs,Bioloģija
+T024,Anastasija,Gajevska,Vācu valoda
+T025,Olga,Galperina,Vācu valoda
+T026,Irina,Gončarova,Mūzika
+T028,Evita,Goreshnyak,Vācu valoda
+T029,Olga,Grigorjeva,Dizains un tehnoloģijas; Latviešu valoda
+T032,Anitra,Ģērmane,Latviešu valoda; Latviešu valoda un literatūra
+T033,Andželika,Habadajeva,Vācu valoda
+T035,Gunta,Jēkabsone,Latviešu valoda; Latviešu valoda un literatūra
+T036,Anna,Kapituļska,Ķīmija
+T037,Sabīne,Kasparsone,Latviešu valoda
+T038,Lilija,Kļevicka,Dabaszinības
+T040,Olga,Kočergina,Sports un veselība
+T041,Sabīne,Korneta,Latviešu valoda
+T042,Nataļja,Kozeļska,Matemātika
+T043,Ligita,Kozlovska,Vizuālā māksla
+T044,Regīna,Lukjančuka,Dizains un tehnoloģijas; Sports un veselība; Vizuālā māksla
+T045,Vladimirs,Ļitvinskis,Programmēšana
+T046,Iļja,Markins,Ķīmija
+T047,Yelena,Maslovskaya,Ekonomika; Uzņēmējdarbības pamati
+T048,Agrita,Meirēna,Latviešu valoda; Latviešu valoda un literatūra
+T049,Oksana,Merefjanska,Latviešu valoda; Latviešu valoda un literatūra
+T050,Olga,Milaševska,Mūzika
+T051,Tatjana,Moisejenoka,Dabaszinības; Matemātika; Sociālās zinības
+T052,Darja,Moisejeva,Teātra māksla
+T053,Jeļena,Ņečajeva,Angļu valoda
+T054,Elza,Oļševska,Bioloģija
+T055,Viktorija,Oļševska,Matemātika
+T056,Irina,Orlova,Datorika
+T057,Natālija,Orlova,Dabaszinības
+T058,Arsenijs,Ovčinkins,Datorika
+T059,Aiga,Ozola,Latviešu valoda un literatūra
+T060,Karina,Pegova,Angļu valoda
+T062,Jeļena,Pivovarova,Angļu valoda
+T063,Tatjana,Podberecka,Vācu valoda
+T064,Natālija,Poļežajeva,Angļu valoda
+T066,Iveta,Rozenberga,Dizains un tehnoloģijas; Kultūras pamati; Vizuālā māksla
+T067,Jeļena,Rubene,Mūzika
+T068,Evelīna,Rudņeva,Latviešu valoda
+T069,Jeļena,Samozvanova,Sports un veselība
+T070,Anastasija,Seņa,Sports un veselība
+T071,Viktorija,Sevruka,Sports un veselība
+T072,Irina,Sidorika,Dabaszinības; Matemātika
+T075,Ludmila,Smirnova,Krievu valoda un literatūra
+T076,Marianna,Smirnova,Krievu valoda un literatūra
+T077,Svetlana,Sokolova,Fizika
+T078,Nestors,Starostins,Programmēšana
+T079,Ivans,Sturovs,Angļu valoda
+T080,Jeļena,Šaškova,Angļu valoda
+T081,Marija,Šehanova,Angļu valoda
+T082,Oļegs,Šleifmanis,Matemātika
+T083,Evija,Špēra,Latviešu literatūra; Latviešu valoda un literatūra
+T084,Zoja,Teišerska,Sociālās zinības; Sociālās zinības un vēsture
+T085,Aleksandrs,Teišerskis,Sociālās zinības un vēsture; Vēsture
+T087,Alla,Tumiņa,Ģeogrāfija
+T088,Irīna,Udalova,Matemātika
+T089,Jevgēnija,Urbane-Orbane,Angļu literatūra; Angļu valoda; Lietišķā angļu valoda
+T090,Liene,Vasiļonoka,Vācu valoda
+T092,Jeļena,Vilcāne,Dizains un tehnoloģijas; Sports un veselība; Vizuālā māksla
+T093,Jekaterina,Vinogradova,Matemātika
+T095,Anna,Zaharčenko,Angļu valoda
+T096,Irina,Zakrevskaya,Latviešu valoda
+T097,Zita,Zvejniece,Latviešu valoda

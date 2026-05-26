@@ -1,0 +1,265 @@
+grade,program,subject,lessons_per_week,optional,group_count,shared_group_key,share_mode
+1,Pamatizglītība,Angļu valoda,2,False,2,,none
+1,Pamatizglītība,Dabaszinības,1,False,1,,none
+1,Pamatizglītība,Dizains un tehnoloģijas,1,False,1,,none
+1,Pamatizglītība,Latviešu valoda,6,False,2,,none
+1,Pamatizglītība,Matemātika,5,False,1,,none
+1,Pamatizglītība,Mūzika,2,False,1,,none
+1,Pamatizglītība,Sociālās zinības,1,False,1,,none
+1,Pamatizglītība,Sports un veselība,2,False,1,,none
+1,Pamatizglītība,Vizuālā māksla,2,False,1,,none
+2,Pamatizglītība,Angļu valoda,2,False,2,,none
+2,Pamatizglītība,Dabaszinības,2,False,1,,none
+2,Pamatizglītība,Dizains un tehnoloģijas,1,False,1,,none
+2,Pamatizglītība,Latviešu valoda,6,False,2,,none
+2,Pamatizglītība,Matemātika,5,False,1,,none
+2,Pamatizglītība,Mūzika,2,False,1,,none
+2,Pamatizglītība,Sociālās zinības,1,False,1,,none
+2,Pamatizglītība,Sports un veselība (praktiskā),2,False,1,,none
+2,Pamatizglītība,Sports un veselība (teorija),1,False,1,,none
+2,Pamatizglītība,Vizuālā māksla,1,False,1,,none
+3,Pamatizglītība,Angļu valoda,3,False,2,,none
+3,Pamatizglītība,Dabaszinības,2,False,1,,none
+3,Pamatizglītība,Dizains un tehnoloģijas,2,False,1,,none
+3,Pamatizglītība,Latviešu valoda,6,False,2,,none
+3,Pamatizglītība,Matemātika,5,False,1,,none
+3,Pamatizglītība,Mūzika,1,False,1,,none
+3,Pamatizglītība,Sociālās zinības,1,False,1,,none
+3,Pamatizglītība,Sports un veselība (praktiskā),2,False,1,,none
+3,Pamatizglītība,Sports un veselība (teorija),1,False,1,,none
+3,Pamatizglītība,Vizuālā māksla,1,False,1,,none
+4,Pamatizglītība,Angļu valoda,3,False,2,,none
+4,Pamatizglītība,Dabaszinības,2,False,1,,none
+4,Pamatizglītība,Datorika,1,False,2,,none
+4,Pamatizglītība,Dizains un tehnoloģijas,1,False,1,,none
+4,Pamatizglītība,Latviešu valoda,5,False,2,,none
+4,Pamatizglītība,Literatūra,1,False,2,,none
+4,Pamatizglītība,Matemātika,5,False,1,,none
+4,Pamatizglītība,Mūzika,2,False,1,,none
+4,Pamatizglītība,Sociālās zinības un vēsture,2,False,1,,none
+4,Pamatizglītība,Sports un veselība (praktiskā),2,False,1,,none
+4,Pamatizglītība,Sports un veselība (teorija),1,False,1,,none
+4,Pamatizglītība,Vizuālā māksla,1,False,1,,none
+5,Pamatizglītība,Angļu valoda,3,False,2,,none
+5,Pamatizglītība,Dabaszinības,2,False,1,,none
+5,Pamatizglītība,Datorika,1,False,2,,none
+5,Pamatizglītība,Dizains un tehnoloģijas,1,False,1,,none
+5,Pamatizglītība,Latviešu valoda,5,False,2,,none
+5,Pamatizglītība,Literatūra,2,False,1,,none
+5,Pamatizglītība,Matemātika,5,False,1,,none
+5,Pamatizglītība,Mūzika,1,False,1,,none
+5,Pamatizglītība,Sociālās zinības un vēsture,2,False,1,,none
+5,Pamatizglītība,Sports un veselība (praktiskā),2,False,1,,none
+5,Pamatizglītība,Sports un veselība (teorija),1,False,1,,none
+5,Pamatizglītība,Vizuālā māksla,1,False,1,,none
+5,Pamatizglītība,Vācu valoda,2,False,2,,none
+6,Pamatizglītība,Angļu valoda,3,False,2,,none
+6,Pamatizglītība,Dabaszinības,2,False,1,,none
+6,Pamatizglītība,Datorika,1,False,2,,none
+6,Pamatizglītība,Dizains un tehnoloģijas,1,False,1,,none
+6,Pamatizglītība,Latviešu valoda,4,False,2,,none
+6,Pamatizglītība,Literatūra,2,False,1,,none
+6,Pamatizglītība,Matemātika,5,False,1,,none
+6,Pamatizglītība,Mūzika,2,False,1,,none
+6,Pamatizglītība,Sociālās zinības un vēsture,2,False,1,,none
+6,Pamatizglītība,Sports un veselība (praktiskā),2,False,1,SPORT_6,optional_single_or_pair
+6,Pamatizglītība,Sports un veselība (teorija),1,False,1,,none
+6,Pamatizglītība,Teātra māksla,1,False,1,,none
+6,Pamatizglītība,Vizuālā māksla,1,False,1,,none
+6,Pamatizglītība,Vācu valoda,3,False,2,,none
+7,Pamatizglītība,Angļu valoda,3,False,2,,none
+7,Pamatizglītība,Bioloģija,2,False,1,,none
+7,Pamatizglītība,Datorika,1,False,2,,none
+7,Pamatizglītība,Dizains un tehnoloģijas,1,False,1,,none
+7,Pamatizglītība,Fizika,1,False,1,,none
+7,Pamatizglītība,Latviešu valoda,3,False,2,,none
+7,Pamatizglītība,Literatūra,1,False,1,,none
+7,Pamatizglītība,Matemātika,5,False,1,,none
+7,Pamatizglītība,Mūzika,2,False,1,,none
+7,Pamatizglītība,Sociālās zinības,1,False,1,,none
+7,Pamatizglītība,Sports un veselība,2,False,1,SPORT_7,optional_single_or_pair
+7,Pamatizglītība,Teātra māksla,1,False,1,,none
+7,Pamatizglītība,Vizuālā māksla,2,False,1,,none
+7,Pamatizglītība,Vācu valoda,3,False,2,,none
+7,Pamatizglītība,Vēsture,2,False,1,,none
+7,Pamatizglītība,Ģeogrāfija,1,False,1,,none
+7,Pamatizglītība,Ķīmija,1,False,1,,none
+8,Pamatizglītība,Angļu valoda,3,False,2,,none
+8,Pamatizglītība,Bioloģija,2,False,1,,none
+8,Pamatizglītība,Datorika,1,False,2,,none
+8,Pamatizglītība,Dizains un tehnoloģijas,1,False,1,,none
+8,Pamatizglītība,Fizika,2,False,1,,none
+8,Pamatizglītība,Latviešu valoda,3,False,2,,none
+8,Pamatizglītība,Literatūra,2,False,1,,none
+8,Pamatizglītība,Matemātika,5,False,1,,none
+8,Pamatizglītība,Mūzika,1,False,1,,none
+8,Pamatizglītība,Sociālās zinības,1,False,1,,none
+8,Pamatizglītība,Sports un veselība (praktiskā),2,False,1,SPORT_8,optional_single_or_pair
+8,Pamatizglītība,Sports un veselība (teorija),1,False,1,,none
+8,Pamatizglītība,Vizuālā māksla,1,False,1,,none
+8,Pamatizglītība,Vācu valoda,3,False,2,,none
+8,Pamatizglītība,Vēsture,2,False,1,,none
+8,Pamatizglītība,Ģeogrāfija,2,False,1,,none
+8,Pamatizglītība,Ķīmija,2,False,1,,none
+9,Pamatizglītība,Angļu valoda,3,False,2,,none
+9,Pamatizglītība,Bioloģija,2,False,1,,none
+9,Pamatizglītība,Datorika,2,False,2,,none
+9,Pamatizglītība,Dizains un tehnoloģijas,1,False,1,,none
+9,Pamatizglītība,Fizika,2,False,1,,none
+9,Pamatizglītība,Inženierzinības,1,False,1,,none
+9,Pamatizglītība,Latviešu valoda,3,False,2,,none
+9,Pamatizglītība,Literatūra,2,False,1,,none
+9,Pamatizglītība,Matemātika,5,False,1,,none
+9,Pamatizglītība,Sociālās zinības,1,False,1,,none
+9,Pamatizglītība,Sports un veselība (praktiskā),2,False,1,SPORT_9,optional_single_or_pair
+9,Pamatizglītība,Sports un veselība (teorija),1,False,1,,none
+9,Pamatizglītība,Vācu valoda,3,False,2,,none
+9,Pamatizglītība,Vēsture,2,False,1,,none
+9,Pamatizglītība,Ģeogrāfija,2,False,1,,none
+9,Pamatizglītība,Ķīmija,2,False,1,,none
+10,Dabaszinātnes,Bioloģija I,3,False,1,BIO_10,fixed_pair_partition
+10,Dabaszinātnes,Datorika,2,False,1,DATORIKA_10,fixed_pair_partition
+10,Dabaszinātnes,Fizika I,3,False,1,PHYS_10,fixed_pair_partition
+10,Dabaszinātnes,Latviešu valoda un literatūra I,4,False,1,LAT_10,fixed_pair_partition
+10,Dabaszinātnes,Matemātika I,5,False,1,MATH_10,fixed_pair_partition
+10,Dabaszinātnes,Mazākumtautību valoda un literatūra,2,True,1,RUS_10,fixed_pair_partition
+10,Dabaszinātnes,Sociālās zinības un vēsture,4,False,1,SOC_10,fixed_pair_partition
+10,Dabaszinātnes,Sports un veselība (praktiskā),2,False,1,SPORT_10_ALL,forced_parallel_groups
+10,Dabaszinātnes,Sports un veselība (teorija),1,False,1,SPORTT_10,fixed_pair_partition
+10,Dabaszinātnes,Svešvaloda (angļu) I B2,4,False,1,ENG_10,fixed_pair_partition
+10,Dabaszinātnes,"Svešvaloda (otrā, vācu) I B1",3,False,4,GERMAN_10_ALL,forced_parallel_groups
+10,Dabaszinātnes,Vācu valoda akadēmiskiem nolūkiem,2,True,1,GERMANAK_10,fixed_pair_partition
+10,Dabaszinātnes,Ķīmija I,3,False,1,CHEM_10,fixed_pair_partition
+10,Humanitārās zinātnes un kultūra,Bioloģija I,3,False,1,BIO_10,fixed_pair_partition
+10,Humanitārās zinātnes un kultūra,Datorika,2,False,1,DATORIKA_10,fixed_pair_partition
+10,Humanitārās zinātnes un kultūra,Fizika I,3,False,1,PHYS_10,fixed_pair_partition
+10,Humanitārās zinātnes un kultūra,Latviešu valoda un literatūra I,4,False,1,LAT_10,fixed_pair_partition
+10,Humanitārās zinātnes un kultūra,Matemātika I,5,False,1,MATH_10,fixed_pair_partition
+10,Humanitārās zinātnes un kultūra,Mazākumtautību valoda un literatūra,2,True,1,RUS_10,fixed_pair_partition
+10,Humanitārās zinātnes un kultūra,Sociālās zinātnes un vēsture I,4,False,1,,none
+10,Humanitārās zinātnes un kultūra,Sports un veselība (praktiskā),2,False,1,SPORT_10_ALL,forced_parallel_groups
+10,Humanitārās zinātnes un kultūra,Sports un veselība (teorija),1,False,1,SPORTT_10,fixed_pair_partition
+10,Humanitārās zinātnes un kultūra,Svešvaloda (angļu) I B2,4,False,1,ENG_10,fixed_pair_partition
+10,Humanitārās zinātnes un kultūra,"Svešvaloda (otrā, vācu) I B1",3,False,4,GERMAN_10_ALL,forced_parallel_groups
+10,Humanitārās zinātnes un kultūra,Vācu valoda akadēmiskiem nolūkiem,2,True,1,GERMANAK_10,fixed_pair_partition
+10,Humanitārās zinātnes un kultūra,Ķīmija I,3,False,1,CHEM_10,fixed_pair_partition
+10,"Matemātika, dabaszinātnes un tehnoloģijas",Bioloģija I,3,False,1,BIO_10,fixed_pair_partition
+10,"Matemātika, dabaszinātnes un tehnoloģijas",Fizika I,3,False,1,PHYS_10,fixed_pair_partition
+10,"Matemātika, dabaszinātnes un tehnoloģijas",Latviešu valoda un literatūra I,4,False,1,LAT_10,fixed_pair_partition
+10,"Matemātika, dabaszinātnes un tehnoloģijas",Matemātika I,5,False,1,MATH_10,fixed_pair_partition
+10,"Matemātika, dabaszinātnes un tehnoloģijas",Programmēšana I,2,False,1,,none
+10,"Matemātika, dabaszinātnes un tehnoloģijas",Sociālās zinības un vēsture,4,False,1,SOC_10,fixed_pair_partition
+10,"Matemātika, dabaszinātnes un tehnoloģijas",Sports un veselība (praktiskā),2,False,1,SPORT_10_ALL,forced_parallel_groups
+10,"Matemātika, dabaszinātnes un tehnoloģijas",Sports un veselība (teorija),1,False,1,SPORTT_10,fixed_pair_partition
+10,"Matemātika, dabaszinātnes un tehnoloģijas",Svešvaloda (angļu) I B2,4,False,1,ENG_10,fixed_pair_partition
+10,"Matemātika, dabaszinātnes un tehnoloģijas","Svešvaloda (otrā, vācu) I B1",3,False,4,GERMAN_10_ALL,forced_parallel_groups
+10,"Matemātika, dabaszinātnes un tehnoloģijas",Uzņemējdarbības pamati,2,True,1,UZN_10,fixed_pair_partition
+10,"Matemātika, dabaszinātnes un tehnoloģijas",Vācu valoda akadēmiskiem nolūkiem,2,True,1,GERMANAK_10,fixed_pair_partition
+10,"Matemātika, dabaszinātnes un tehnoloģijas",Ķīmija I,3,False,1,CHEM_10,fixed_pair_partition
+10,Uzņēmējdarbības pamati,Bioloģija I,3,False,1,BIO_10,fixed_pair_partition
+10,Uzņēmējdarbības pamati,Datorika,2,False,1,DATORIKA_10,fixed_pair_partition
+10,Uzņēmējdarbības pamati,Fizika I,3,False,1,PHYS_10,fixed_pair_partition
+10,Uzņēmējdarbības pamati,Latviešu valoda un literatūra I,4,False,1,LAT_10,fixed_pair_partition
+10,Uzņēmējdarbības pamati,Matemātika I,5,False,1,MATH_10,fixed_pair_partition
+10,Uzņēmējdarbības pamati,Sociālās zinības un vēsture,4,False,1,SOC_10,fixed_pair_partition
+10,Uzņēmējdarbības pamati,Sports un veselība (praktiskā),2,False,1,SPORT_10_ALL,forced_parallel_groups
+10,Uzņēmējdarbības pamati,Sports un veselība (teorija),1,False,1,SPORTT_10,fixed_pair_partition
+10,Uzņēmējdarbības pamati,Svešvaloda (angļu) I B2,4,False,1,ENG_10,fixed_pair_partition
+10,Uzņēmējdarbības pamati,Svešvaloda (vācu) I B1,3,False,4,GERMAN_10_ALL,forced_parallel_groups
+10,Uzņēmējdarbības pamati,Uzņemējdarbības pamati,2,True,1,UZN_10,fixed_pair_partition
+10,Uzņēmējdarbības pamati,Vācu valoda akadēmiskiem nolūkiem,2,True,1,GERMANAK_10,fixed_pair_partition
+10,Uzņēmējdarbības pamati,Ķīmija I,3,False,1,CHEM_10,fixed_pair_partition
+11,Dabaszinātnes,Bioloģija II,2,False,1,,none
+11,Dabaszinātnes,Fizika I,3,False,1,PHYS_11,fixed_pair_partition
+11,Dabaszinātnes,Kultūras pamati,3,False,1,CULT_11,fixed_pair_partition
+11,Dabaszinātnes,Latviešu valoda un literatūra I,4,False,1,LAT_11,fixed_pair_partition
+11,Dabaszinātnes,Matemātika I,6,False,1,MATH_11,fixed_pair_partition
+11,Dabaszinātnes,Mazākumtautību valoda un literatūra,2,True,1,RUS_11,fixed_pair_partition
+11,Dabaszinātnes,Sports un veselība (praktiskā),2,False,1,SPORT_11_ALL,forced_parallel_groups
+11,Dabaszinātnes,Sports un veselība (teorija),1,False,1,SPORTT_11,fixed_pair_partition
+11,Dabaszinātnes,Svešvaloda (angļu) I B2,4,False,1,ENG_11,fixed_pair_partition
+11,Dabaszinātnes,"Svešvaloda (otrā, vācu) I B1",3,False,4,GERMAN_11_ALL,forced_parallel_groups
+11,Dabaszinātnes,Vācu valoda akadēmiskiem nolūkiem,2,True,1,GERMANAK_11,fixed_pair_partition
+11,Dabaszinātnes,Ģeogrāfija I,3,False,1,GEO_11,fixed_pair_partition
+11,Dabaszinātnes,Ķīmija I,2,False,1,CHEM_11,fixed_pair_partition
+11,Humanitārās zinātnes un kultūra,Fizika I,3,False,1,PHYS_11,fixed_pair_partition
+11,Humanitārās zinātnes un kultūra,Kultūra un māksla I (teātra māksla),5,False,1,,none
+11,Humanitārās zinātnes un kultūra,Latviešu valoda un literatūra I,4,False,1,LAT_11,fixed_pair_partition
+11,Humanitārās zinātnes un kultūra,Matemātika I,6,False,1,MATH_11,fixed_pair_partition
+11,Humanitārās zinātnes un kultūra,Mazākumtautību valoda un literatūra,2,True,1,RUS_11,fixed_pair_partition
+11,Humanitārās zinātnes un kultūra,Sports un veselība (praktiskā),2,False,1,SPORT_11_ALL,forced_parallel_groups
+11,Humanitārās zinātnes un kultūra,Sports un veselība (teorija),1,False,1,SPORTT_11,fixed_pair_partition
+11,Humanitārās zinātnes un kultūra,Svešvaloda (angļu) I B2,4,False,1,ENG_11,fixed_pair_partition
+11,Humanitārās zinātnes un kultūra,"Svešvaloda (otrā, vācu) I B1",3,False,4,GERMAN_11_ALL,forced_parallel_groups
+11,Humanitārās zinātnes un kultūra,Vācu valoda akadēmiskiem nolūkiem,2,True,1,GERMANAK_11,fixed_pair_partition
+11,Humanitārās zinātnes un kultūra,Ģeogrāfija I,3,False,1,GEO_11,fixed_pair_partition
+11,Humanitārās zinātnes un kultūra,Ķīmija I,2,False,1,CHEM_11,fixed_pair_partition
+11,"Matemātika, dabaszinātnes un tehnoloģijas",Fizika I,3,False,1,PHYS_11,fixed_pair_partition
+11,"Matemātika, dabaszinātnes un tehnoloģijas",Kultūras pamati,3,False,1,CULT_11,fixed_pair_partition
+11,"Matemātika, dabaszinātnes un tehnoloģijas",Latviešu valoda un literatūra I,4,False,1,LAT_11,fixed_pair_partition
+11,"Matemātika, dabaszinātnes un tehnoloģijas",Matemātika I,6,False,1,MATH_11,fixed_pair_partition
+11,"Matemātika, dabaszinātnes un tehnoloģijas",Programmēšana I,3,False,1,,none
+11,"Matemātika, dabaszinātnes un tehnoloģijas",Sports un veselība (praktiskā),2,False,1,SPORT_11_ALL,forced_parallel_groups
+11,"Matemātika, dabaszinātnes un tehnoloģijas",Sports un veselība (teorija),1,False,1,SPORTT_11,fixed_pair_partition
+11,"Matemātika, dabaszinātnes un tehnoloģijas",Svešvaloda (angļu) I B2,4,False,1,ENG_11,fixed_pair_partition
+11,"Matemātika, dabaszinātnes un tehnoloģijas","Svešvaloda (otrā, vācu) I B1",3,False,4,GERMAN_11_ALL,forced_parallel_groups
+11,"Matemātika, dabaszinātnes un tehnoloģijas",Uzņemējdarbības pamati,2,True,1,UZN_11,fixed_pair_partition
+11,"Matemātika, dabaszinātnes un tehnoloģijas",Vācu valoda akadēmiskiem nolūkiem,2,True,1,GERMANAK_11,fixed_pair_partition
+11,"Matemātika, dabaszinātnes un tehnoloģijas",Ģeogrāfija I,3,False,1,GEO_11,fixed_pair_partition
+11,"Matemātika, dabaszinātnes un tehnoloģijas",Ķīmija I,2,False,1,CHEM_11,fixed_pair_partition
+11,Uzņēmējdarbības pamati,Fizika I,3,False,1,PHYS_11,fixed_pair_partition
+11,Uzņēmējdarbības pamati,Kultūras pamati,3,False,1,CULT_11,fixed_pair_partition
+11,Uzņēmējdarbības pamati,Latviešu valoda un literatūra I,4,False,1,LAT_11,fixed_pair_partition
+11,Uzņēmējdarbības pamati,Lietišķā angļu valoda,2,False,1,,none
+11,Uzņēmējdarbības pamati,Matemātika I,6,False,1,MATH_11,fixed_pair_partition
+11,Uzņēmējdarbības pamati,Sports un veselība (praktiskā),2,False,1,SPORT_11_ALL,forced_parallel_groups
+11,Uzņēmējdarbības pamati,Sports un veselība (teorija),1,False,1,SPORTT_11,fixed_pair_partition
+11,Uzņēmējdarbības pamati,Svešvaloda (angļu) I B2,4,False,1,ENG_11,fixed_pair_partition
+11,Uzņēmējdarbības pamati,Svešvaloda (vācu) I B1,3,False,4,GERMAN_11_ALL,forced_parallel_groups
+11,Uzņēmējdarbības pamati,Uzņemējdarbības pamati,2,True,1,UZN_11,fixed_pair_partition
+11,Uzņēmējdarbības pamati,Vācu valoda akadēmiskiem nolūkiem,2,True,1,GERMANAK_11,fixed_pair_partition
+11,Uzņēmējdarbības pamati,Ģeogrāfija I,3,False,1,GEO_11,fixed_pair_partition
+11,Uzņēmējdarbības pamati,Ķīmija I,2,False,1,CHEM_11,fixed_pair_partition
+12,Dabaszinātnes,Bioloģija II,6,False,1,,none
+12,Dabaszinātnes,Fizika II,7,False,1,PHYS_12,fixed_pair_partition
+12,Dabaszinātnes,Latviešu valoda un literatūra I,4,False,1,LAT_12,fixed_pair_partition
+12,Dabaszinātnes,Mazākumtautību valoda un literatūra,2,True,1,RUS_12,fixed_pair_partition
+12,Dabaszinātnes,Sports un veselība (praktiskā),2,False,1,SPORT_12_ALL,forced_parallel_groups
+12,Dabaszinātnes,Sports un veselība (teorija),1,False,1,SPORTT_12,fixed_pair_partition
+12,Dabaszinātnes,Svešvaloda (angļu) I B2,3,False,1,ENG_12,fixed_pair_partition
+12,Dabaszinātnes,"Svešvaloda (otrā, vācu) I B1",3,False,4,GERMAN_12_ALL,forced_parallel_groups
+12,Dabaszinātnes,Vācu valoda akadēmiskiem nolūkiem,2,True,1,GERMANAK_12,fixed_pair_partition
+12,Dabaszinātnes,Ķīmija II,6,False,1,,none
+12,Humanitārās zinātnes un kultūra,Angļu un amerikāņu literatūra,2,True,1,,none
+12,Humanitārās zinātnes un kultūra,Kultūra un māksla II (teātra māksla),6,False,1,,none
+12,Humanitārās zinātnes un kultūra,Latviešu valoda un literatūra I,4,False,1,LAT_12,fixed_pair_partition
+12,Humanitārās zinātnes un kultūra,Mazākumtautību valoda un literatūra,2,True,1,RUS_12,fixed_pair_partition
+12,Humanitārās zinātnes un kultūra,Sports un veselība (praktiskā),2,False,1,SPORT_12_ALL,forced_parallel_groups
+12,Humanitārās zinātnes un kultūra,Sports un veselība (teorija),1,False,1,SPORTT_12,fixed_pair_partition
+12,Humanitārās zinātnes un kultūra,Svešvaloda (angļu) I B2,3,False,1,ENG_12,fixed_pair_partition
+12,Humanitārās zinātnes un kultūra,Svešvaloda (angļu) II C1,6,False,1,ENG2_12,fixed_pair_partition
+12,Humanitārās zinātnes un kultūra,"Svešvaloda (otrā, vācu) I B1",3,False,4,GERMAN_12_ALL,forced_parallel_groups
+12,Humanitārās zinātnes un kultūra,"Svešvaloda (otrā, vācu) II B2",4,True,1,GERMAN2_12,fixed_pair_partition
+12,Humanitārās zinātnes un kultūra,Vācu valoda akadēmiskiem nolūkiem,2,True,1,GERMANAK_12,fixed_pair_partition
+12,Humanitārās zinātnes un kultūra,Ģeogrāfija II,6,True,1,GEO_12,fixed_pair_partition
+12,"Matemātika, dabaszinātnes un tehnoloģijas",Ekonomika,2,True,1,ECON_12,fixed_pair_partition
+12,"Matemātika, dabaszinātnes un tehnoloģijas",Fizika II,7,False,1,PHYS_12,fixed_pair_partition
+12,"Matemātika, dabaszinātnes un tehnoloģijas",Latviešu valoda un literatūra I,4,False,1,LAT_12,fixed_pair_partition
+12,"Matemātika, dabaszinātnes un tehnoloģijas",Matemātika II,7,False,1,MATH_12,fixed_pair_partition
+12,"Matemātika, dabaszinātnes un tehnoloģijas",Programmēšana II,5,False,1,,none
+12,"Matemātika, dabaszinātnes un tehnoloģijas",Sports un veselība (praktiskā),2,False,1,SPORT_12_ALL,forced_parallel_groups
+12,"Matemātika, dabaszinātnes un tehnoloģijas",Sports un veselība (teorija),1,False,1,SPORTT_12,fixed_pair_partition
+12,"Matemātika, dabaszinātnes un tehnoloģijas",Svešvaloda (angļu) I B2,3,False,1,ENG_12,fixed_pair_partition
+12,"Matemātika, dabaszinātnes un tehnoloģijas","Svešvaloda (otrā, vācu) I B1",3,False,4,GERMAN_12_ALL,forced_parallel_groups
+12,"Matemātika, dabaszinātnes un tehnoloģijas",Vācu valoda akadēmiskiem nolūkiem,2,True,1,GERMANAK_12,fixed_pair_partition
+12,Uzņēmējdarbības pamati,Ekonomika,2,False,1,ECON_12,fixed_pair_partition
+12,Uzņēmējdarbības pamati,Latviešu valoda un literatūra I,4,False,1,LAT_12,fixed_pair_partition
+12,Uzņēmējdarbības pamati,Matemātika II,7,False,1,MATH_12,fixed_pair_partition
+12,Uzņēmējdarbības pamati,Sports un veselība (praktiskā),2,False,1,SPORT_12_ALL,forced_parallel_groups
+12,Uzņēmējdarbības pamati,Sports un veselība (teorija),1,False,1,SPORTT_12,fixed_pair_partition
+12,Uzņēmējdarbības pamati,Svešvaloda (angļu) I B2,3,False,1,ENG_12,fixed_pair_partition
+12,Uzņēmējdarbības pamati,Svešvaloda (angļu) II C1,6,False,1,ENG2_12,fixed_pair_partition
+12,Uzņēmējdarbības pamati,"Svešvaloda (otrā, vācu) II B2",4,True,1,GERMAN2_12,fixed_pair_partition
+12,Uzņēmējdarbības pamati,Svešvaloda (vācu) I B1,3,False,4,GERMAN_12_ALL,forced_parallel_groups
+12,Uzņēmējdarbības pamati,Vācu valoda akadēmiskiem nolūkiem,2,True,1,GERMANAK_12,fixed_pair_partition
+12,Uzņēmējdarbības pamati,Ģeogrāfija II,6,True,1,GEO_12,fixed_pair_partition

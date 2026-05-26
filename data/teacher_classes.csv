@@ -1,0 +1,601 @@
+teacher_id,subject,class
+T001,Latviešu valoda un literatūra,7.a
+T001,Latviešu valoda un literatūra,7.b
+T001,Latviešu valoda un literatūra,7.c
+T001,Latviešu valoda un literatūra,9.a
+T001,Latviešu valoda un literatūra,9.b
+T001,Latviešu valoda un literatūra,9.c
+T001,Latviešu valoda,7.a
+T001,Latviešu valoda,7.b
+T001,Latviešu valoda,7.c
+T001,Latviešu valoda,9.a
+T001,Latviešu valoda,9.b
+T001,Latviešu valoda,9.c
+T003,Matemātika,6.a
+T003,Matemātika,6.b
+T003,Matemātika,6.c
+T003,Matemātika,9.a
+T003,Matemātika,9.c
+T004,Latviešu valoda,1.b
+T004,Latviešu valoda,3.a
+T004,Latviešu valoda,3.b
+T004,Latviešu valoda,3.c
+T004,Sociālās zinības,1.b
+T004,Sociālās zinības,3.a
+T004,Sociālās zinības,3.b
+T004,Sociālās zinības,3.c
+T005,Bioloģija,10.a
+T005,Bioloģija,10.b
+T005,Bioloģija,11.b
+T005,Bioloģija,12.b
+T006,Fizika,12.b
+T006,Fizika,7.a
+T006,Fizika,7.b
+T006,Fizika,7.c
+T007,Angļu valoda,8.a
+T007,Angļu valoda,8.b
+T007,Angļu valoda,8.c
+T007,Angļu valoda,9.a
+T007,Angļu valoda,9.b
+T007,Angļu valoda,9.c
+T008,Teātra māksla,11.a
+T008,Teātra māksla,12.a
+T008,Teātra māksla,6.a
+T008,Teātra māksla,6.b
+T008,Teātra māksla,6.c
+T010,Vācu valoda,10.a
+T010,Vācu valoda,10.b
+T010,Vācu valoda,11.a
+T010,Vācu valoda,11.b
+T010,Vācu valoda,12.a
+T010,Vācu valoda,8.a
+T010,Vācu valoda,8.b
+T012,Matemātika,9.b
+T016,Datorika,5.a
+T016,Datorika,5.b
+T016,Datorika,5.c
+T016,Datorika,6.a
+T016,Datorika,6.b
+T016,Datorika,6.c
+T016,Datorika,7.a
+T016,Datorika,7.b
+T016,Datorika,7.c
+T016,Datorika,8.a
+T016,Datorika,8.b
+T016,Datorika,8.c
+T016,Datorika,9.a
+T016,Datorika,9.b
+T016,Datorika,9.c
+T016,Dizains un tehnoloģijas,5.a
+T016,Dizains un tehnoloģijas,5.b
+T016,Dizains un tehnoloģijas,5.c
+T016,Dizains un tehnoloģijas,6.a
+T016,Dizains un tehnoloģijas,6.b
+T016,Dizains un tehnoloģijas,6.c
+T016,Dizains un tehnoloģijas,7.a
+T016,Dizains un tehnoloģijas,7.b
+T016,Dizains un tehnoloģijas,7.c
+T016,Dizains un tehnoloģijas,8.a
+T016,Dizains un tehnoloģijas,8.b
+T016,Dizains un tehnoloģijas,8.c
+T016,Dizains un tehnoloģijas,9.a
+T016,Dizains un tehnoloģijas,9.b
+T016,Dizains un tehnoloģijas,9.c
+T018,Angļu valoda,3.a
+T018,Angļu valoda,3.b
+T018,Angļu valoda,3.c
+T018,Angļu valoda,5.a
+T018,Angļu valoda,5.b
+T018,Angļu valoda,5.c
+T019,Datorika,4.a
+T019,Datorika,4.b
+T019,Datorika,4.c
+T019,Datorika,9.a
+T019,Datorika,9.b
+T019,Datorika,9.c
+T019,Inženierzinības,4.a
+T019,Inženierzinības,4.b
+T019,Inženierzinības,4.c
+T019,Inženierzinības,9.a
+T019,Inženierzinības,9.b
+T019,Inženierzinības,9.c
+T020,Matemātika,4.a
+T020,Matemātika,4.b
+T020,Matemātika,4.c
+T020,Matemātika,5.a
+T020,Matemātika,5.b
+T023,Bioloģija,7.a
+T023,Bioloģija,7.b
+T023,Bioloģija,7.c
+T023,Bioloģija,9.a
+T023,Bioloģija,9.b
+T023,Bioloģija,9.c
+T024,Vācu valoda,12.a
+T024,Vācu valoda,5.a
+T024,Vācu valoda,5.b
+T024,Vācu valoda,5.c
+T024,Vācu valoda,6.a
+T024,Vācu valoda,6.b
+T024,Vācu valoda,6.c
+T024,Vācu valoda,7.a
+T024,Vācu valoda,7.b
+T024,Vācu valoda,7.c
+T025,Vācu valoda,10.a
+T025,Vācu valoda,11.b
+T025,Vācu valoda,12.b
+T025,Vācu valoda,6.b
+T025,Vācu valoda,6.c
+T025,Vācu valoda,8.c
+T025,Vācu valoda,9.a
+T025,Vācu valoda,9.b
+T025,Vācu valoda,9.c
+T026,Mūzika,1.a
+T026,Mūzika,1.b
+T026,Mūzika,2.a
+T026,Mūzika,2.b
+T026,Mūzika,2.c
+T026,Mūzika,3.a
+T026,Mūzika,3.b
+T026,Mūzika,3.c
+T026,Mūzika,4.a
+T026,Mūzika,4.b
+T026,Mūzika,4.c
+T028,Vācu valoda,10.b
+T028,Vācu valoda,6.a
+T028,Vācu valoda,7.a
+T028,Vācu valoda,7.b
+T028,Vācu valoda,7.c
+T029,Latviešu valoda,3.a
+T029,Latviešu valoda,3.b
+T029,Latviešu valoda,3.c
+T029,Dizains un tehnoloģijas,3.a
+T029,Dizains un tehnoloģijas,3.b
+T029,Dizains un tehnoloģijas,3.c
+T032,Latviešu valoda un literatūra,4.a
+T032,Latviešu valoda un literatūra,4.b
+T032,Latviešu valoda un literatūra,5.a
+T032,Latviešu valoda un literatūra,5.b
+T032,Latviešu valoda,4.a
+T032,Latviešu valoda,4.b
+T032,Latviešu valoda,5.a
+T032,Latviešu valoda,5.b
+T033,Vācu valoda,10.b
+T033,Vācu valoda,11.b
+T033,Vācu valoda,12.b
+T035,Latviešu valoda un literatūra,4.c
+T035,Latviešu valoda un literatūra,5.a
+T035,Latviešu valoda un literatūra,5.b
+T035,Latviešu valoda un literatūra,5.c
+T035,Latviešu valoda,4.c
+T035,Latviešu valoda,5.a
+T035,Latviešu valoda,5.b
+T035,Latviešu valoda,5.c
+T036,Ķīmija,7.a
+T036,Ķīmija,7.b
+T036,Ķīmija,7.c
+T036,Ķīmija,8.a
+T036,Ķīmija,8.b
+T036,Ķīmija,8.c
+T037,Latviešu valoda,6.a
+T037,Latviešu valoda,6.b
+T037,Latviešu valoda,6.c
+T037,Latviešu valoda,7.b
+T037,Latviešu valoda,7.c
+T038,Dabaszinības,4.a
+T038,Dabaszinības,4.b
+T038,Dabaszinības,4.c
+T038,Dabaszinības,5.a
+T038,Dabaszinības,5.b
+T038,Dabaszinības,5.c
+T038,Dabaszinības,6.a
+T038,Dabaszinības,6.b
+T038,Dabaszinības,6.c
+T040,Sports un veselība,11.b
+T040,Sports un veselība,12.b
+T040,Sports un veselība,5.a
+T040,Sports un veselība,5.b
+T040,Sports un veselība,5.c
+T040,Sports un veselība,7.a
+T040,Sports un veselība,7.b
+T040,Sports un veselība,7.c
+T040,Sports un veselība,8.c
+T040,Sports un veselība,9.c
+T041,Latviešu valoda,6.a
+T041,Latviešu valoda,6.c
+T043,Vizuālā māksla,1.a
+T043,Vizuālā māksla,1.b
+T043,Vizuālā māksla,2.a
+T043,Vizuālā māksla,2.b
+T043,Vizuālā māksla,4.a
+T043,Vizuālā māksla,4.b
+T043,Vizuālā māksla,4.c
+T044,Dizains un tehnoloģijas,2.a
+T044,Dizains un tehnoloģijas,2.b
+T044,Dizains un tehnoloģijas,2.c
+T044,Dizains un tehnoloģijas,5.b
+T044,Sports un veselība,2.a
+T044,Sports un veselība,2.b
+T044,Sports un veselība,2.c
+T044,Sports un veselība,5.b
+T044,Vizuālā māksla,2.a
+T044,Vizuālā māksla,2.b
+T044,Vizuālā māksla,2.c
+T044,Vizuālā māksla,5.b
+T045,Programmēšana,10.b
+T045,Programmēšana,11.b
+T046,Ķīmija,10.a
+T046,Ķīmija,10.b
+T046,Ķīmija,11.a
+T046,Ķīmija,11.b
+T046,Ķīmija,12.b
+T046,Ķīmija,9.a
+T046,Ķīmija,9.b
+T046,Ķīmija,9.c
+T047,Uzņēmējdarbības pamati,10.b
+T047,Uzņēmējdarbības pamati,11.b
+T047,Uzņēmējdarbības pamati,12.b
+T047,Ekonomika,10.b
+T047,Ekonomika,11.b
+T047,Ekonomika,12.b
+T048,Latviešu valoda un literatūra,8.a
+T048,Latviešu valoda un literatūra,8.b
+T048,Latviešu valoda un literatūra,8.c
+T048,Latviešu valoda un literatūra,9.a
+T048,Latviešu valoda un literatūra,9.b
+T048,Latviešu valoda un literatūra,9.c
+T048,Latviešu valoda,8.a
+T048,Latviešu valoda,8.b
+T048,Latviešu valoda,8.c
+T048,Latviešu valoda,9.a
+T048,Latviešu valoda,9.b
+T048,Latviešu valoda,9.c
+T049,Latviešu valoda un literatūra,2.a
+T049,Latviešu valoda un literatūra,2.b
+T049,Latviešu valoda un literatūra,2.c
+T049,Latviešu valoda un literatūra,4.c
+T049,Latviešu valoda,2.a
+T049,Latviešu valoda,2.b
+T049,Latviešu valoda,2.c
+T049,Latviešu valoda,4.c
+T050,Mūzika,6.a
+T050,Mūzika,6.b
+T050,Mūzika,6.c
+T050,Mūzika,7.a
+T050,Mūzika,7.b
+T050,Mūzika,7.c
+T050,Mūzika,8.a
+T050,Mūzika,8.b
+T050,Mūzika,8.c
+T051,Matemātika,1.a
+T051,Matemātika,1.b
+T051,Matemātika,2.a
+T051,Matemātika,2.b
+T051,Matemātika,2.c
+T051,Dabaszinības,1.a
+T051,Dabaszinības,1.b
+T051,Dabaszinības,2.a
+T051,Dabaszinības,2.b
+T051,Dabaszinības,2.c
+T051,Sociālās zinības,1.a
+T051,Sociālās zinības,1.b
+T051,Sociālās zinības,2.a
+T051,Sociālās zinības,2.b
+T051,Sociālās zinības,2.c
+T052,Teātra māksla,7.a
+T052,Teātra māksla,7.b
+T052,Teātra māksla,7.c
+T053,Angļu valoda,10.a
+T053,Angļu valoda,10.b
+T053,Angļu valoda,7.a
+T053,Angļu valoda,7.b
+T053,Angļu valoda,7.c
+T053,Angļu valoda,8.a
+T053,Angļu valoda,8.b
+T053,Angļu valoda,8.c
+T054,Bioloģija,8.a
+T054,Bioloģija,8.b
+T054,Bioloģija,8.c
+T055,Matemātika,7.a
+T055,Matemātika,7.b
+T056,Datorika,10.a
+T056,Datorika,10.b
+T056,Datorika,6.a
+T056,Datorika,6.b
+T056,Datorika,6.c
+T056,Datorika,7.a
+T056,Datorika,7.b
+T056,Datorika,7.c
+T056,Datorika,8.a
+T056,Datorika,8.b
+T056,Datorika,9.a
+T056,Datorika,9.b
+T056,Datorika,9.c
+T057,Dabaszinības,1.a
+T057,Dabaszinības,1.b
+T058,Datorika,7.a
+T058,Datorika,7.b
+T058,Datorika,7.c
+T058,Datorika,8.a
+T058,Datorika,8.b
+T058,Datorika,8.c
+T059,Latviešu valoda un literatūra,10.a
+T059,Latviešu valoda un literatūra,10.b
+T059,Latviešu valoda un literatūra,11.a
+T059,Latviešu valoda un literatūra,11.b
+T059,Latviešu valoda un literatūra,12.a
+T059,Latviešu valoda un literatūra,12.b
+T059,Latviešu valoda un literatūra,7.a
+T060,Angļu valoda,2.a
+T060,Angļu valoda,2.b
+T060,Angļu valoda,2.c
+T060,Angļu valoda,4.a
+T060,Angļu valoda,4.b
+T060,Angļu valoda,4.c
+T062,Angļu valoda,10.a
+T062,Angļu valoda,10.b
+T062,Angļu valoda,11.a
+T062,Angļu valoda,11.b
+T062,Angļu valoda,12.a
+T062,Angļu valoda,12.b
+T063,Vācu valoda,5.a
+T063,Vācu valoda,5.b
+T063,Vācu valoda,5.c
+T064,Angļu valoda,1.a
+T064,Angļu valoda,1.b
+T064,Angļu valoda,3.a
+T064,Angļu valoda,3.b
+T064,Angļu valoda,3.c
+T066,Kultūras pamati,11.a
+T066,Kultūras pamati,11.b
+T066,Kultūras pamati,3.a
+T066,Kultūras pamati,3.b
+T066,Kultūras pamati,3.c
+T066,Kultūras pamati,6.a
+T066,Kultūras pamati,6.b
+T066,Kultūras pamati,6.c
+T066,Kultūras pamati,7.a
+T066,Kultūras pamati,7.b
+T066,Kultūras pamati,7.c
+T066,Kultūras pamati,8.a
+T066,Kultūras pamati,8.b
+T066,Kultūras pamati,8.c
+T066,Vizuālā māksla,11.a
+T066,Vizuālā māksla,11.b
+T066,Vizuālā māksla,3.a
+T066,Vizuālā māksla,3.b
+T066,Vizuālā māksla,3.c
+T066,Vizuālā māksla,6.a
+T066,Vizuālā māksla,6.b
+T066,Vizuālā māksla,6.c
+T066,Vizuālā māksla,7.a
+T066,Vizuālā māksla,7.b
+T066,Vizuālā māksla,7.c
+T066,Vizuālā māksla,8.a
+T066,Vizuālā māksla,8.b
+T066,Vizuālā māksla,8.c
+T066,Dizains un tehnoloģijas,11.a
+T066,Dizains un tehnoloģijas,11.b
+T066,Dizains un tehnoloģijas,3.a
+T066,Dizains un tehnoloģijas,3.b
+T066,Dizains un tehnoloģijas,3.c
+T066,Dizains un tehnoloģijas,6.a
+T066,Dizains un tehnoloģijas,6.b
+T066,Dizains un tehnoloģijas,6.c
+T066,Dizains un tehnoloģijas,7.a
+T066,Dizains un tehnoloģijas,7.b
+T066,Dizains un tehnoloģijas,7.c
+T066,Dizains un tehnoloģijas,8.a
+T066,Dizains un tehnoloģijas,8.b
+T066,Dizains un tehnoloģijas,8.c
+T067,Mūzika,5.a
+T067,Mūzika,5.b
+T067,Mūzika,5.c
+T068,Latviešu valoda,1.a
+T069,Sports un veselība,1.a
+T069,Sports un veselība,1.b
+T069,Sports un veselība,3.a
+T069,Sports un veselība,3.b
+T069,Sports un veselība,3.c
+T069,Sports un veselība,4.a
+T069,Sports un veselība,4.b
+T069,Sports un veselība,4.c
+T070,Sports un veselība,10.b
+T070,Sports un veselība,12.b
+T070,Sports un veselība,8.a
+T070,Sports un veselība,8.b
+T070,Sports un veselība,8.c
+T070,Sports un veselība,9.a
+T070,Sports un veselība,9.b
+T070,Sports un veselība,9.c
+T071,Sports un veselība,10.a
+T071,Sports un veselība,11.a
+T071,Sports un veselība,12.a
+T071,Sports un veselība,6.a
+T071,Sports un veselība,6.b
+T071,Sports un veselība,6.c
+T071,Sports un veselība,8.a
+T071,Sports un veselība,8.b
+T071,Sports un veselība,8.c
+T071,Sports un veselība,9.a
+T071,Sports un veselība,9.b
+T071,Sports un veselība,9.c
+T072,Matemātika,3.a
+T072,Matemātika,3.b
+T072,Matemātika,3.c
+T072,Dabaszinības,3.a
+T072,Dabaszinības,3.b
+T072,Dabaszinības,3.c
+T075,Krievu valoda un literatūra,10.a
+T076,Krievu valoda un literatūra,11.a
+T076,Krievu valoda un literatūra,12.a
+T077,Fizika,10.a
+T077,Fizika,10.b
+T077,Fizika,11.a
+T077,Fizika,11.b
+T077,Fizika,8.a
+T077,Fizika,8.b
+T077,Fizika,8.c
+T077,Fizika,9.a
+T077,Fizika,9.b
+T077,Fizika,9.c
+T078,Programmēšana,12.b
+T079,Angļu valoda,9.a
+T079,Angļu valoda,9.b
+T079,Angļu valoda,9.c
+T080,Angļu valoda,4.a
+T080,Angļu valoda,4.b
+T080,Angļu valoda,4.c
+T080,Angļu valoda,5.a
+T080,Angļu valoda,5.b
+T080,Angļu valoda,5.c
+T081,Angļu valoda,2.a
+T081,Angļu valoda,2.b
+T081,Angļu valoda,2.c
+T081,Angļu valoda,6.a
+T081,Angļu valoda,6.b
+T081,Angļu valoda,6.c
+T082,Matemātika,10.b
+T082,Matemātika,11.a
+T082,Matemātika,11.b
+T082,Matemātika,12.b
+T083,Latviešu valoda un literatūra,4.a
+T083,Latviešu valoda un literatūra,4.b
+T083,Latviešu valoda un literatūra,5.a
+T083,Latviešu valoda un literatūra,5.b
+T083,Latviešu valoda un literatūra,5.c
+T083,Latviešu literatūra,4.a
+T083,Latviešu literatūra,4.b
+T083,Latviešu literatūra,5.a
+T083,Latviešu literatūra,5.b
+T083,Latviešu literatūra,5.c
+T084,Sociālās zinības un vēsture,4.a
+T084,Sociālās zinības un vēsture,4.b
+T084,Sociālās zinības un vēsture,4.c
+T084,Sociālās zinības un vēsture,5.a
+T084,Sociālās zinības un vēsture,5.b
+T084,Sociālās zinības un vēsture,5.c
+T084,Sociālās zinības un vēsture,7.a
+T084,Sociālās zinības un vēsture,7.b
+T084,Sociālās zinības un vēsture,7.c
+T084,Sociālās zinības un vēsture,8.a
+T084,Sociālās zinības un vēsture,8.b
+T084,Sociālās zinības un vēsture,8.c
+T084,Sociālās zinības un vēsture,9.a
+T084,Sociālās zinības un vēsture,9.b
+T084,Sociālās zinības un vēsture,9.c
+T084,Sociālās zinības,4.a
+T084,Sociālās zinības,4.b
+T084,Sociālās zinības,4.c
+T084,Sociālās zinības,5.a
+T084,Sociālās zinības,5.b
+T084,Sociālās zinības,5.c
+T084,Sociālās zinības,7.a
+T084,Sociālās zinības,7.b
+T084,Sociālās zinības,7.c
+T084,Sociālās zinības,8.a
+T084,Sociālās zinības,8.b
+T084,Sociālās zinības,8.c
+T084,Sociālās zinības,9.a
+T084,Sociālās zinības,9.b
+T084,Sociālās zinības,9.c
+T085,Vēsture,10.a
+T085,Vēsture,10.b
+T085,Vēsture,6.a
+T085,Vēsture,6.b
+T085,Vēsture,6.c
+T085,Vēsture,7.a
+T085,Vēsture,7.b
+T085,Vēsture,7.c
+T085,Vēsture,8.a
+T085,Vēsture,8.b
+T085,Vēsture,8.c
+T085,Vēsture,9.a
+T085,Vēsture,9.b
+T085,Vēsture,9.c
+T085,Sociālās zinības un vēsture,10.a
+T085,Sociālās zinības un vēsture,10.b
+T085,Sociālās zinības un vēsture,6.a
+T085,Sociālās zinības un vēsture,6.b
+T085,Sociālās zinības un vēsture,6.c
+T085,Sociālās zinības un vēsture,7.a
+T085,Sociālās zinības un vēsture,7.b
+T085,Sociālās zinības un vēsture,7.c
+T085,Sociālās zinības un vēsture,8.a
+T085,Sociālās zinības un vēsture,8.b
+T085,Sociālās zinības un vēsture,8.c
+T085,Sociālās zinības un vēsture,9.a
+T085,Sociālās zinības un vēsture,9.b
+T085,Sociālās zinības un vēsture,9.c
+T087,Ģeogrāfija,11.a
+T087,Ģeogrāfija,11.b
+T087,Ģeogrāfija,12.a
+T087,Ģeogrāfija,7.a
+T087,Ģeogrāfija,7.b
+T087,Ģeogrāfija,7.c
+T087,Ģeogrāfija,8.a
+T087,Ģeogrāfija,8.b
+T087,Ģeogrāfija,8.c
+T087,Ģeogrāfija,9.a
+T087,Ģeogrāfija,9.b
+T087,Ģeogrāfija,9.c
+T088,Matemātika,10.a
+T088,Matemātika,7.c
+T088,Matemātika,8.a
+T088,Matemātika,8.b
+T088,Matemātika,8.c
+T089,Angļu valoda,11.a
+T089,Angļu valoda,11.b
+T089,Angļu valoda,12.a
+T089,Angļu valoda,12.b
+T089,Lietišķā angļu valoda,11.a
+T089,Lietišķā angļu valoda,11.b
+T089,Lietišķā angļu valoda,12.a
+T089,Lietišķā angļu valoda,12.b
+T089,Angļu literatūra,11.a
+T089,Angļu literatūra,11.b
+T089,Angļu literatūra,12.a
+T089,Angļu literatūra,12.b
+T090,Vācu valoda,8.a
+T090,Vācu valoda,8.b
+T090,Vācu valoda,8.c
+T090,Vācu valoda,9.a
+T090,Vācu valoda,9.b
+T090,Vācu valoda,9.c
+T092,Dizains un tehnoloģijas,1.a
+T092,Dizains un tehnoloģijas,1.b
+T092,Dizains un tehnoloģijas,4.a
+T092,Dizains un tehnoloģijas,4.b
+T092,Dizains un tehnoloģijas,4.c
+T092,Dizains un tehnoloģijas,5.a
+T092,Dizains un tehnoloģijas,5.b
+T092,Dizains un tehnoloģijas,5.c
+T092,Sports un veselība,1.a
+T092,Sports un veselība,1.b
+T092,Sports un veselība,4.a
+T092,Sports un veselība,4.b
+T092,Sports un veselība,4.c
+T092,Sports un veselība,5.a
+T092,Sports un veselība,5.b
+T092,Sports un veselība,5.c
+T092,Vizuālā māksla,1.a
+T092,Vizuālā māksla,1.b
+T092,Vizuālā māksla,4.a
+T092,Vizuālā māksla,4.b
+T092,Vizuālā māksla,4.c
+T092,Vizuālā māksla,5.a
+T092,Vizuālā māksla,5.b
+T092,Vizuālā māksla,5.c
+T093,Matemātika,2.a
+T093,Matemātika,2.b
+T093,Matemātika,2.c
+T095,Angļu valoda,6.a
+T095,Angļu valoda,6.b
+T095,Angļu valoda,6.c
+T095,Angļu valoda,7.a
+T095,Angļu valoda,7.b
+T095,Angļu valoda,7.c
+T096,Latviešu valoda,1.b
+T096,Latviešu valoda,2.a
+T096,Latviešu valoda,2.b
+T096,Latviešu valoda,2.c
+T097,Latviešu valoda,6.b
